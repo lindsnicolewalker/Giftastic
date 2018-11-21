@@ -1,0 +1,10 @@
+body{
+  background-image: url(''); 
+  background-repeat: no-repeat; 
+  background-size: 100%; 
+}
+.gifs-here{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
